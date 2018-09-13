@@ -1,0 +1,30 @@
+_repo: The-Fight-Against-Lynching-Anti-Lynching-Work-of-the-National-Association-for-the-Advancement__51317
+_version: 0.0.1
+alternative_title: "The Fight Against Lynching\r\nAnti-Lynching Work of the National\
+  \ Association for the Advancement of Colored People for the Year 1918"
+creator:
+  author:
+    agent_name: National Association for the Advancement of Colored People
+    aliases:
+    - N.A.A.C.P. (Organization)
+    - NAACP (Organization)
+    gutenberg_agent_id: '49002'
+    url: http://www.gutenberg.org/2009/agents/49002
+description: ''
+gutenberg_issued: '2016-02-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51317'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'HV'
+- !lcsh 'Lynching'
+- GITenberg
+title: 'The Fight Against Lynching
+
+  Anti-Lynching Work of the National Association for the Advancement of Colored People
+  for the Year Nineteen Eighteen'
+url: http://www.gutenberg.org/ebooks/51317
