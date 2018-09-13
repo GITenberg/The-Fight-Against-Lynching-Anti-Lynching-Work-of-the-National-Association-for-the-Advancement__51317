@@ -1,7 +1,10 @@
 _repo: The-Fight-Against-Lynching-Anti-Lynching-Work-of-the-National-Association-for-the-Advancement__51317
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: "The Fight Against Lynching\r\nAnti-Lynching Work of the National\
   \ Association for the Advancement of Colored People for the Year 1918"
+covers:
+- cover_type: archival
+  image_path: 51317-h/images/cover.jpg
 creator:
   author:
     agent_name: National Association for the Advancement of Colored People
@@ -11,6 +14,8 @@ creator:
     gutenberg_agent_id: '49002'
     url: http://www.gutenberg.org/2009/agents/49002
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/51317#The-Fight-Against-Lynching-Anti-Lynching-Work-of-the-National-Association-for-the-Advancement_
 gutenberg_issued: '2016-02-28'
 gutenberg_type: Text
 identifiers:
